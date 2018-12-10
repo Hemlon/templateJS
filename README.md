@@ -9,4 +9,6 @@ You will need to modify the index.html to reference the first level template you
 
 3. rename to level1.js
 
-4. run index.html in firefox to test
+4. copy and paste the pics folder from the first level template folder and replace it in root 
+
+5. run index.html in firefox to test
